@@ -5,9 +5,9 @@
   </br>
   <h6>Web Development Resources You Ever Need</h6>
   <p>
-    <span style="font-weight: bold"><a href="https://github.com/iamismile">Ismile Hossain</a></span>
+    <span style="font-weight: bold"><a href="https://github.com/abiribahullas7766">Md Abiribah Ullas</a></span>
     </br>
-    <sub>Follow me on <a href="https://twitter.com/whoisismile">Twitter</a>, <a href="https://www.linkedin.com/in/iamismile/">LinkedIn</a>.</sub>
+    <sub>Follow me on <a href="">Twitter</a>, <a href="https://www.linkedin.com/in/md-abiribah-ullas-254725221/">LinkedIn</a>.</sub>
   </p>
 </div>
 
